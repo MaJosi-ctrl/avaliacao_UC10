@@ -1,0 +1,7 @@
+Cadastro de Produtos
+
+Código: 004
+Descrição: coisa
+Categoria: nada
+Valor: 10,00
+Estoque: 1
