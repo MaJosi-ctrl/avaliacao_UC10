@@ -1,0 +1,6 @@
+Cadastro de Clientes
+
+Nome: Fulano
+CPF: 999.999.999.00
+Telefone: 51-99999 9999 
+Email: fulano@gmail.com
